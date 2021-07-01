@@ -1,14 +1,14 @@
 {
-  "name": "@booswap/boo-swap-lib",
+  "name": "@cai/cai-swap-lib",
   "version": "0.0.1",
-  "description": "Boo Swap Lib",
+  "description": "CAI Swap Lib",
   "files": [
     "contracts",
     "!contracts/test"
   ],
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/booswap/boo-swap-lib.git"
+    "url": "ssh://git@github.com/cai/cai-swap-lib.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
