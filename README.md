@@ -13,10 +13,10 @@ Run `yarn test` to execute the test suite.
 
 ## Usage
 
-Install this in another project via `yarn add @booswap/boo-swap-lib` 
+Install this in another project via `yarn add @cai/cai-swap-lib` 
 
 Then import the contracts via:
 
 ```solidity
-import "@booswap/boo-swap-lib/contracts/access/Ownable.sol"; 
+import "@cai/cai-swap-lib/contracts/access/Ownable.sol"; 
 ```
